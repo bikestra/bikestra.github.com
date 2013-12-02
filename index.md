@@ -18,11 +18,11 @@ and statistical modeling of graphs.
 
 ## Contact
 
-Department of Statistics, HAAS 175\\
-205 North University Street\\
-Purdue University
-West Lafayette, IN 47907\\
-\\
+Department of Statistics, HAAS 175\n
+205 North University Street\n
+Purdue University \n
+West Lafayette, IN 47907\n
+\n
 E-mail: yun3 -at- purdue -dot- edu.
 
 ## Education
