@@ -1,46 +1,27 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hyokun Yun
+tagline: Ph.D Candidate in Statistics
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+![profile]({{ site.url }}/assets/profile.jpg)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Education
 
-## Update Author Attributes
+- (Current) Ph.D Candidate of Statistics, Purdue University, USA
+- M.S. in Statistics, Purdue University, USA
+- B.S. in Industrial Engineering and Mathematics, POSTECH, Korea
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Employment
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+- Machine Learning Intern, Amazon LLC, Summer 2013
+- Research Intern, Microsoft Research India, Fall 2012
+- Predictive Analytics Intern, Blizzard Entertainment, Summer 2012
+- Internship Researcher, Max Planck Institute Tuebingen, Summer 2011
+- Associate Researcher, Cyram(c), 2006 - 2008
+- Internship Consultant, Accenture Company, Summer 2005
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
