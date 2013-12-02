@@ -7,18 +7,28 @@ tagline: Ph.D Candidate in Statistics
 
 ![profile]({{ site.url }}/assets/profile.jpg)
 
+## Introduction
+
 I am Hyokun Yun (윤효근), Ph.D Candidate in 
 the [Department of Statistics](http://www.stat.purdue.edu), 
 [Purdue University](http://www.purdue.edu).  I work with 
 [Prof. S.V.N. Vishwanathan](http://www.stat.purdue.edu/~vishy) 
 on efficient optimization algorithms for large-scale machine learning,
-and statistical modeling of graphs.
+and statistical modeling of graphs.  
+
+## Contact
+
+Department of Statistics, HAAS 175\\
+205 North University Street\\
+Purdue University
+West Lafayette, IN 47907\\
+\\
+E-mail: yun3 -at- purdue -dot- edu.
 
 ## Education
 
-- (Current) Ph.D Candidate of Statistics, Purdue University, USA
-- M.S. in Statistics, Purdue University, USA
-- B.S. in Industrial Engineering and Mathematics, POSTECH, Korea
+- M.S. in Statistics, [Purdue University](http://www.purdue.edu), USA
+- B.S. in Industrial Engineering and Mathematics, [POSTECH](http://www.postech.edu), Korea
 
 ## Employment
 
