@@ -37,7 +37,7 @@ Purdue University <br/>
 West Lafayette, IN 47907
 --->
 
-E-mail: yun3 -at- purdue -dot- edu.
+E-mail: yun.hyokun -at- gmail -dot- com.
 
 ## Education
 
