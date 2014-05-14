@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyokun Yun
-tagline: Ph.D Candidate in Statistics
+tagline: Machine Learning Scientist
 ---
 {% include JB/setup %}
 
@@ -9,26 +9,44 @@ tagline: Ph.D Candidate in Statistics
 
 ## Introduction
 
-I am Hyokun Yun (윤효근), Ph.D Candidate in 
-the [Department of Statistics](http://www.stat.purdue.edu), 
-[Purdue University](http://www.purdue.edu).  I work with 
+I am Hyokun Yun (윤효근), a Machine Learning Scientist at TBA.
+
+Until Spring 2014, I was a Ph.D student in the
+[Department of Statistics](http://www.stat.purdue.edu) at 
+[Purdue University](http://www.purdue.edu).  I worked with 
 [Prof. S.V.N. Vishwanathan](http://www.stat.purdue.edu/~vishy) 
 on efficient optimization algorithms for large-scale machine learning,
-and statistical modeling of graphs.  
+and statistical modeling of graphs.
+
+Before joining Purdue, I was an associate researcher in
+[Cyram(c)](http://www.cyram.com) and developed graph
+analysis/visualization algorithms for network analysis software
+products including [NetMiner](http://www.netminer.com) and NetMetrica.
+
+I am also a proud alumnus of [POSTECH](http://www.postech.edu) (Pohang
+University of Science and TECHnology).  I hope to see more
+international presence of POSTECH alumni; please feel free to contact
+me if I could be of any help.
 
 ## Contact
 
+<!---
 Department of Statistics, HAAS 175 <br/>
 205 North University Street <br/>
 Purdue University <br/>
 West Lafayette, IN 47907
+--->
 
 E-mail: yun3 -at- purdue -dot- edu.
 
 ## Education
 
-- M.S. in Statistics, [Purdue University](http://www.purdue.edu), USA
-- B.S. in Industrial Engineering and Mathematics, [POSTECH](http://www.postech.edu), Korea
+- Ph.D. in Statistics, [Purdue University](http://www.purdue.edu),
+  USA, Spring 2014
+- M.S. in Statistics, [Purdue University](http://www.purdue.edu), USA,
+  Spring 2013
+- B.S. in Industrial Engineering and Mathematics (Summa Cum Laude),
+  [POSTECH](http://www.postech.edu), Korea, Spring 2009
 
 ## Employment
 
