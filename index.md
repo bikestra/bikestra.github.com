@@ -59,6 +59,11 @@ E-mail: yun.hyokun -at- gmail -dot- com.
 
 ## Publications
 
+### Thesis
+
+- Doubly Separable Models and Distributed Parameter Estimation
+  [\[Paper\]]({{ site.url }}/assets/thesis.pdf) [\[Slides\]]({{ site.url }}/assets/doubsep.pdf)
+
 ### Papers
 
 - Ranking via Robust Binary Classification and Parallel Parameter Estimation in Large-Scale Data (Hyokun Yun, Parameswaran Raman, S.V.N. Vishwanathan), Technical Paper, 2014 [\[Paper\]](http://arxiv.org/abs/1402.2676)
