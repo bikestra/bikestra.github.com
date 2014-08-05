@@ -9,7 +9,7 @@ tagline: Machine Learning Scientist
 
 ## Introduction
 
-I am Hyokun Yun (윤효근), a Machine Learning Scientist at TBA.
+I am Hyokun Yun (윤효근), a Machine Learning Scientist at Amazon.
 
 Until Spring 2014, I was a Ph.D student in the
 [Department of Statistics](http://www.stat.purdue.edu) at 
@@ -37,7 +37,7 @@ Purdue University <br/>
 West Lafayette, IN 47907
 --->
 
-E-mail: yun.hyokun -at- gmail -dot- com.
+E-mail: yunhyoku -at- amazon -dot- com.
 
 ## Education
 
@@ -50,6 +50,7 @@ E-mail: yun.hyokun -at- gmail -dot- com.
 
 ## Employment
 
+- Machine Learning Scientist, Amazon LLC (current)
 - Machine Learning Intern, Amazon LLC, Summer 2013
 - Research Intern, Microsoft Research India, Fall 2012
 - Predictive Analytics Intern, Blizzard Entertainment, Summer 2012
