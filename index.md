@@ -67,7 +67,9 @@ E-mail: yunhyoku -at- amazon -dot- com.
 
 ### Papers
 
-- Ranking via Robust Binary Classification and Parallel Parameter Estimation in Large-Scale Data (Hyokun Yun, Parameswaran Raman, S.V.N. Vishwanathan), Technical Paper, 2014 [\[Paper\]](http://arxiv.org/abs/1402.2676)
+- Ranking via Robust Binary Classification and Parallel Parameter
+  Estimation in Large-Scale Data (Hyokun Yun, Parameswaran Raman,
+  S.V.N. Vishwanathan), To appear in NIPS 2014 [\[Paper\]](http://arxiv.org/abs/1402.2676)
 - NOMAD: Non-locking, stOchastic Multi-machine algorithm for
   Asynchronous and Decentralized matrix completion (Hyokun Yun,
   Hsiang-Fu Yu, Cho-Jui Hsieh, S.V.N. Vishwanathan, Inderjit Dhillon),
