@@ -67,7 +67,7 @@ E-mail: yunhyoku -at- amazon -dot- com.
 
 ### Papers
 
-- Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, S.V.N. Vishwanathan), Technical Paper 2015, [\[Paper\]](http://arxiv.org/abs/1406.4363)
+- Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, S.V.N. Vishwanathan), Technical Paper 2015 [\[Paper\]](http://arxiv.org/abs/1406.4363)
 - A Scalable Asynchronous Distributed Algorithm for Topic Modeling (Hsiang-Fu Yu, Cho-Jui Hsieh, Hyokun Yun, S.V.N. Vishwanathan, Inderjit S. Dhillon), WWW 2015 [\[Paper\]](http://arxiv.org/abs/1412.4986)
 - Ranking via Robust Binary Classification and Parallel Parameter
   Estimation in Large-Scale Data (Hyokun Yun, Parameswaran Raman,
