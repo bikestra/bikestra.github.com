@@ -67,6 +67,8 @@ E-mail: yunhyoku -at- amazon -dot- com.
 
 ### Papers
 
+- Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, S.V.N. Vishwanathan), Technical Paper 2015, [\[Paper\]](http://arxiv.org/abs/1406.4363)
+- A Scalable Asynchronous Distributed Algorithm for Topic Modeling (Hsiang-Fu Yu, Cho-Jui Hsieh, Hyokun Yun, S.V.N. Vishwanathan, Inderjit S. Dhillon), WWW 2015 [\[Paper\]](http://arxiv.org/abs/1412.4986)
 - Ranking via Robust Binary Classification and Parallel Parameter
   Estimation in Large-Scale Data (Hyokun Yun, Parameswaran Raman,
   S.V.N. Vishwanathan), NIPS 2014
@@ -74,7 +76,7 @@ E-mail: yunhyoku -at- amazon -dot- com.
   [\[Code\]](https://bitbucket.org/d_ijk_stra/robirank) [\[Poster\]]({{ site.url }}/assets/robirank_poster.pdf)
 - NOMAD: Non-locking, stOchastic Multi-machine algorithm for
   Asynchronous and Decentralized matrix completion (Hyokun Yun,
-  Hsiang-Fu Yu, Cho-Jui Hsieh, S.V.N. Vishwanathan, Inderjit Dhillon),
+  Hsiang-Fu Yu, Cho-Jui Hsieh, S.V.N. Vishwanathan, Inderjit S. Dhillon),
   VLDB 2014 [\[Paper\]](http://arxiv.org/abs/1312.0193) [\[Code\]](http://www.stat.purdue.edu/~yun3/nomad.zip)
 - How to Filter out Random Clickers in a Crowdsourcing-Based Study? (Sung-Hee Kim, Hyokun Yun and Ji Soo Yi), BELIV Workshop, VisWeek 2012 [\[Paper\]](http://www.beliv.org/papers/beliv2012/paper16.pdf)
 - Efficiently Sampling Multiplicative Attribute Graphs Using a Ball-Dropping Process (Hyokun Yun and S.V.N. Vishwanathan), Technical Paper, 2012 [\[Paper\]](http://arxiv.org/abs/1202.6001) [\[Slides\]](https://sites.google.com/site/hyokunyun/publications/accrej.pdf?attredirects=0&d=1)
