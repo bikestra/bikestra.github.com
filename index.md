@@ -67,6 +67,8 @@ E-mail: yunhyoku -at- amazon -dot- com.
 
 ### Papers
 
+- WordRank: Learning Word Embeddings via Robust Ranking (Shihao Ji, Hyokun Yun, Pinar Yanardag, Shin Matsushima, S. V. N. Vishwanathan), EMNLP 2016 [\[Paper\]](http://arxiv.org/abs/1506.02761)
+- Nomadic Computing for Big Data Analytics (Hsiang-Fu Yu, Cho-Jui Hsieh, Hyokun Yun, S.V.N. Vishwanathan, Inderjit S. Dhillon), IEEE Computer 2016 [\[Paper\]](http://ieeexplore.ieee.org/document/7452314)
 - Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, S.V.N. Vishwanathan), Technical Paper 2015 [\[Paper\]](http://arxiv.org/abs/1406.4363)
 - A Scalable Asynchronous Distributed Algorithm for Topic Modeling (Hsiang-Fu Yu, Cho-Jui Hsieh, Hyokun Yun, S.V.N. Vishwanathan, Inderjit S. Dhillon), WWW 2015 [\[Paper\]](http://arxiv.org/abs/1412.4986)
 - Ranking via Robust Binary Classification and Parallel Parameter
