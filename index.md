@@ -67,6 +67,8 @@ E-mail: yunhyoku -at- amazon -dot- com.
 
 ### Papers
 
+
+- Scaling Multinomial Logistic Regression via Hybrid Parallelism (Parameswaran Raman, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan), KDD 2019, [\[Paper]\](https://people.ucsc.edu/~praman1/static/pub/mlr-kdd19.pdf)
 - Deep Active Learning for Named Entity Recognition (Yanyao Shen, Hyokun Yun, Zachary C. Lipton, Yakov Kronrod, Animashree Anandkumar), ICLR 2018 [\[Paper\]](https://openreview.net/pdf?id=ry018WZAZ)
 - Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, S.V.N. Vishwanathan), ECML PKDD 2017 [\[Paper\]](http://ecmlpkdd2017.ijs.si/papers/paperID526.pdf)
 - WordRank: Learning Word Embeddings via Robust Ranking (Shihao Ji, Hyokun Yun, Pinar Yanardag, Shin Matsushima, S. V. N. Vishwanathan), EMNLP 2016 [\[Paper\]](http://arxiv.org/abs/1506.02761)
