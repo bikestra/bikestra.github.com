@@ -67,10 +67,10 @@ E-mail: yunhyoku -at- amazon -dot- com.
 
 ### Papers
 
-
+- Robustness to Capitalization Errors in Named Entity Recognition (Sravan Bodapati, Hyokun Yun, Yaser Al-Onaizan), W-NUT 2019 (EMNLP 2019 Workshop), [\[Paper\]](https://arxiv.org/abs/1911.05241)
 - Scaling Multinomial Logistic Regression via Hybrid Parallelism (Parameswaran Raman, Sriram Srinivasan, Shin Matsushima, Xinhua Zhang, Hyokun Yun, S.V.N. Vishwanathan), KDD 2019, [\[Paper\]](https://people.ucsc.edu/~praman1/static/pub/mlr-kdd19.pdf)
 - Deep Active Learning for Named Entity Recognition (Yanyao Shen, Hyokun Yun, Zachary C. Lipton, Yakov Kronrod, Animashree Anandkumar), ICLR 2018 [\[Paper\]](https://openreview.net/pdf?id=ry018WZAZ)
-- Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, S.V.N. Vishwanathan), ECML PKDD 2017 [\[Paper\]](http://ecmlpkdd2017.ijs.si/papers/paperID526.pdf)
+- Distributed Stochastic Optimization of the Regularized Risk (Shin Matsushima, Hyokun Yun, Xinhua Zhang, S.V.N. Vishwanathan), ECML PKDD 2017 [\[Paper\]](http://ecmlpkdd2017.ijs.si/papers/paperID526.pdf)
 - WordRank: Learning Word Embeddings via Robust Ranking (Shihao Ji, Hyokun Yun, Pinar Yanardag, Shin Matsushima, S. V. N. Vishwanathan), EMNLP 2016 [\[Paper\]](http://arxiv.org/abs/1506.02761)
 - Nomadic Computing for Big Data Analytics (Hsiang-Fu Yu, Cho-Jui Hsieh, Hyokun Yun, S.V.N. Vishwanathan, Inderjit S. Dhillon), IEEE Computer 2016 [\[Paper\]](http://ieeexplore.ieee.org/document/7452314)
 - A Scalable Asynchronous Distributed Algorithm for Topic Modeling (Hsiang-Fu Yu, Cho-Jui Hsieh, Hyokun Yun, S.V.N. Vishwanathan, Inderjit S. Dhillon), WWW 2015 [\[Paper\]](http://arxiv.org/abs/1412.4986)
